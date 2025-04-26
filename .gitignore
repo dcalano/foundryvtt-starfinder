@@ -58,3 +58,4 @@ foundryconfig.json
 # Foundry.js
 foundry/
 foundry.js
+node_modules
